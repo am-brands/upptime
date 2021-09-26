@@ -4,7 +4,7 @@
     "url": "https://ambrands.co/",
     "icon": "https://favicons.githubusercontent.com/ambrands.co",
     "slug": "am-brands",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 723,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-26": 0
+    }
   },
   {
     "name": "Cerveceria de Colima",
