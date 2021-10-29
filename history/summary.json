@@ -24,9 +24,9 @@
     "url": "https://us.cerveceriadecolima.com/",
     "icon": "https://favicons.githubusercontent.com/us.cerveceriadecolima.com",
     "slug": "cerveceria-de-colima",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
@@ -36,6 +36,7 @@
     "timeMonth": 495,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2021-10-29": 0,
       "2021-10-24": 25,
       "2021-10-01": 14
     }
