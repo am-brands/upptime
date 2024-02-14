@@ -4,7 +4,7 @@
     "url": "https://ambrands.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ambrands.co.ico",
     "slug": "am-brands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 268,
     "timeYear": 604,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2023-10-14": 58,
       "2023-07-26": 34
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-14": 68,
+      "2024-02-14": 733,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
