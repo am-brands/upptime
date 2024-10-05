@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ambrands.co.ico",
     "slug": "am-brands",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "98.81%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 459,
-    "timeDay": 464,
-    "timeWeek": 430,
-    "timeMonth": 370,
-    "timeYear": 333,
+    "time": 458,
+    "timeDay": 286,
+    "timeWeek": 398,
+    "timeMonth": 360,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-10-04": 17,
       "2024-09-17": 18,
@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.cerveceriadecolima.com.ico",
     "slug": "cerveceria-de-colima",
     "status": "down",
-    "uptime": "8.12%",
+    "uptime": "8.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -48,7 +48,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-04": 1149,
+      "2024-10-05": 95,
+      "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -411,8 +412,7 @@
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
-      "2023-10-07": 1440,
-      "2023-10-06": 1440
+      "2023-10-07": 1440
     }
   }
 ]
