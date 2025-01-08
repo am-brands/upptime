@@ -6,15 +6,15 @@
     "slug": "am-brands",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "97.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
     "time": 372,
-    "timeDay": 451,
-    "timeWeek": 490,
-    "timeMonth": 392,
-    "timeYear": 347,
+    "timeDay": 382,
+    "timeWeek": 515,
+    "timeMonth": 391,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2025-01-06": 38,
       "2025-01-04": 27,
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.cerveceriadecolima.com.ico",
     "slug": "cerveceria-de-colima",
     "status": "down",
-    "uptime": "7.48%",
+    "uptime": "7.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 98,
+      "2025-01-08": 97,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -418,8 +419,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 1440
+      "2024-01-10": 1440
     }
   }
 ]
