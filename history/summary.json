@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ambrands.co.ico",
     "slug": "am-brands",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 373,
-    "timeDay": 338,
-    "timeWeek": 355,
-    "timeMonth": 349,
+    "timeDay": 317,
+    "timeWeek": 334,
+    "timeMonth": 350,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2025-07-04": 16,
@@ -83,7 +83,8 @@
     "timeMonth": 6203,
     "timeYear": 6203,
     "dailyMinutesDown": {
-      "2025-10-19": 116,
+      "2025-10-20": 113,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -446,8 +447,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   }
 ]
