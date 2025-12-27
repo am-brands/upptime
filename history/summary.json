@@ -8,13 +8,13 @@
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 362,
-    "timeDay": 396,
-    "timeWeek": 332,
-    "timeMonth": 298,
-    "timeYear": 360,
+    "timeDay": 184,
+    "timeWeek": 293,
+    "timeMonth": 306,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2025-11-26": 27,
       "2025-07-04": 16,
@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.cerveceriadecolima.com.ico",
     "slug": "cerveceria-de-colima",
     "status": "down",
-    "uptime": "5.80%",
+    "uptime": "5.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -81,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 6203,
     "dailyMinutesDown": {
-      "2025-12-26": 118,
+      "2025-12-27": 116,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -444,8 +445,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   }
 ]
