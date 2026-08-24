@@ -4,15 +4,15 @@
     "url": "https://ambrands.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ambrands.co.ico",
     "slug": "am-brands",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "88.22%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "90.03%",
+    "uptimeMonth": "88.15%",
+    "uptimeYear": "98.82%",
     "time": 353,
-    "timeDay": 163,
-    "timeWeek": 319,
+    "timeDay": 195,
+    "timeWeek": 318,
     "timeMonth": 316,
     "timeYear": 350,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2026-08-21": 234,
       "2026-08-22": 124,
       "2026-08-23": 83,
-      "2026-08-24": 41
+      "2026-08-24": 72
     }
   },
   {
@@ -95,7 +95,7 @@
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
-      "2026-08-24": 1147,
+      "2026-08-24": 1178,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
